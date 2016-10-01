@@ -5,7 +5,7 @@
 # - Ben Underwood
 # - Justin Kim
 def main():
-    
+    print("Calling Twitter API...")
 
 if __name__ == "__main__":
     main()
