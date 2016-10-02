@@ -2,10 +2,10 @@ from threading import Thread
 import twython
 import webbrowser
 
-consumer_key = "OyIpsi9JYB0PnF1ufCgltuO1u"
-consumer_secret = "EGUEGZQ8jJvrApUQHr5Edx1tyOO3V2Sy9A6Ye3xykApH5IeZmM"
-access_token = "737509189354823681-EEe6qnjQggUmrEwmKW8fnF19DAfXZri"
-access_token_secret = "Qfyk8a53n7sSXeOnrpPRg0FS44CNSoMdf8zJMlbLFzF1c"
+consumer_key = "CONSUMER_KEY"
+consumer_secret = "CONSUMER_SECRET"
+access_token = "ACCESS_TOKEN"
+access_token_secret = "ACCESS_TOKEN_SECRET"
     
 class Worker(Thread):
     """A threaded version of Beige"""
